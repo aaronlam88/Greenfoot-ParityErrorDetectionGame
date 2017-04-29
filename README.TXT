@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
+PROJECT TITLE: Parity Error Detection Game
+PURPOSE OF PROJECT: A simple game to teach player about Parity Error Detection
+VERSION or DATE: last update 04/29/2017
+HOW TO START THIS PROJECT: 
+    User should have Greenfoot install (https://www.greenfoot.org/download)
+    Run the "project.greenfoot" file to start the game
 AUTHORS:
-USER INSTRUCTIONS:
+    Aaron Lam
+    In collaboration with team Titan from CMPE202 Fall 2016
