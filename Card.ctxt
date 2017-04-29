@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\n\ Write\ a\ description\ of\ class\ Card\ here.\n\ \n\ @author\ Aaron\ Lam\n\ @version\ 1.0\ -\ updated\ 11-21-2016\n
+comment1.params=color
+comment1.target=void\ changeColor(java.awt.Color)
+comment10.params=
+comment10.target=void\ select()
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=
+comment3.target=void\ unShuffle()
+comment4.params=
+comment4.target=Card()
+comment5.params=
+comment5.target=void\ flip()
+comment6.params=
+comment6.target=boolean\ isFlip()
+comment7.params=selected
+comment7.target=void\ setSelected(boolean)
+comment8.params=
+comment8.target=boolean\ isSelected()
+comment9.params=
+comment9.target=void\ act()
+comment9.text=\n\ Act\ -\ do\ whatever\ the\ BlackCard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=11

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TimmerActor\ here.\r\n\ \ \ \ \ Count\ in\ game\ time\r\n\ \ \ \ \ Adapted\ for\ project\ from\ http\://www.greenfoot.org/scenarios/8157\r\n\ @author\:\ Duta\r\n\ @version\:\ 2013/4/27\r\n
+comment1.params=running
+comment1.target=void\ setRunning(boolean)
+comment2.params=
+comment2.target=int\ getTime()
+comment3.params=
+comment3.target=Timer()
+comment4.params=
+comment4.target=void\ start()
+comment5.params=
+comment5.target=void\ gamePaused()
+comment6.params=
+comment6.target=void\ act()
+comment7.params=
+comment7.target=void\ updateImage()
+numComments=8

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=State
+comment0.text=\n\ Write\ a\ description\ of\ class\ State\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ moveToNextState()
+comment2.params=
+comment2.target=boolean\ canStart()
+comment3.params=
+comment3.target=boolean\ canSubmit()
+comment4.params=
+comment4.target=boolean\ canNext()
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SingletonPlayer
+comment0.text=\n\ Write\ a\ description\ of\ class\ SingletonPlayer\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getLevel()
+comment10.params=correct\ time
+comment10.target=void\ submitted(boolean,\ int)
+comment2.params=level
+comment2.target=void\ setLevel(int)
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=score
+comment4.target=void\ setScore(int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=score
+comment7.target=void\ addScore(int)
+comment8.params=
+comment8.target=SingletonPlayer()
+comment9.params=
+comment9.target=SingletonPlayer\ getInstance()
+numComments=11

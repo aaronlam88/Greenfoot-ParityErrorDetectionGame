@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Command\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=int\ nextLevel(GameWorld)
+comment2.params=world
+comment2.target=void\ startTimer(GameWorld)
+comment3.params=world
+comment3.target=void\ stopTimer(GameWorld)
+comment4.params=world
+comment4.target=void\ flipRandomCard(GameWorld)
+numComments=5

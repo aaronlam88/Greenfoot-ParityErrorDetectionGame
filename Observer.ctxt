@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Observer
+comment0.text=\n\ Write\ a\ description\ of\ class\ EventObserver\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Observer()
+comment2.params=
+comment2.target=Observer\ getInstance()
+comment3.params=card
+comment3.target=void\ cardSelected(Card)
+comment4.params=correct\ time
+comment4.target=void\ submitted(boolean,\ int)
+numComments=5
